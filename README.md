@@ -3,9 +3,9 @@ Descentralized application to register discovered stars
 
 # dependencies and versions
 
-@openzeppelin/contracts: ^4.6.0
-@truffle/hdwallet-provider: ^2.0.8
-web3: ^1.7.3
+- @openzeppelin/contracts: ^4.6.0
+- @truffle/hdwallet-provider: ^2.0.8
+- web3: ^1.7.3
 
 # Contract details
 
